@@ -597,7 +597,7 @@ a {
   margin: 15px 0;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1080px) {
   .skills-container {
     margin: 0;
     padding: 2em;
@@ -692,7 +692,7 @@ a {
   padding: 0 1rem;
   font-size: 1.5rem;
 }
-@media (max-width: 1300px) {
+@media (max-width: 1080px) {
   .contactus-heading {
     font-size: 40px;
     text-align: center;
@@ -761,7 +761,7 @@ footer {
   display: flex;
   gap: 1rem;
 }
-@media (max-width: 1300px) {
+@media (max-width: 1080px) {
   footer {
     padding: 0.5rem;
   }
