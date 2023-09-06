@@ -271,7 +271,7 @@ a {
   }
 }
     /* Hero Right Section End */
-@media (max-width: 1300px) {
+@media (max-width: 1080px) {
   .hero-section {
     flex-direction: column;
     justify-content: center;
@@ -466,7 +466,7 @@ a {
   margin-left: 120px;
 }
 
-@media (max-width: 1300px) {
+@media (max-width: 1080px) {
   .page-header {
     padding-top: 30px;
     color: var(--bgOrange);
