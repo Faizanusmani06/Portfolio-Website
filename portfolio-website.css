@@ -452,17 +452,18 @@ a {
 }
 
 #project1 {
-  background-image: url(./images/projects/Project1.png);
+  background-image: url(./images/projects/Apna-Hotel.png);
 }
 #project2 {
-  background-image: url(./images/projects/Project2.png);
+  background-image: url(./images/projects/Movix.png);
   margin-left: 120px;
 }
 #project3 {
-  background-image: url(./images/projects/Project3.png);
+  background-image: url(./images/projects/conference.png);
 }
 #project4 {
-  background-image: url(./images/projects/Project4.png);
+  background-image: url(./images/projects/Screenshot\ 2024-03-30\ 200437.png);
+  object-fit: cover;
   margin-left: 120px;
 }
 
@@ -496,6 +497,7 @@ a {
   .project-content-left {
     left: 0;
   }
+  
   .project-heading {
     font-size: 40px;
     width: 100%;
